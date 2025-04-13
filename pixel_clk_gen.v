@@ -68,16 +68,7 @@ module pixel_clk_gen(
     localparam Z10_Y_T = 192;
     localparam Z10_Y_B = 256;
 
-//    localparam Z1_X_L = 158; // Adjust the left boundary slightly to the left
-//    localparam Z1_X_R = 189; // Adjust the right boundary slightly to the left
-//    localparam Z1_Y_T = 192;
-//    localparam Z1_Y_B = 256;
-    
-//// Counter 10s Digit section = 32 x 64 (positioned to the left)
-//    localparam Z10_X_L = 190; // Adjust the left boundary slightly to the left
-//    localparam Z10_X_R = 221; // Adjust the right boundary slightly to the left
-//    localparam Z10_Y_T = 192;
-//    localparam Z10_Y_B = 256;
+
     
     
     
